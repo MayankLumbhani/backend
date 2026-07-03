@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { subTodo } from "./sub-todo.model";
+import { subTodo } from "./subTodo.model";
 
 const todoSchema = newmongoose.model(
     {
